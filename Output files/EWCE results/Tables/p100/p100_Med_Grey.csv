@@ -1,0 +1,21 @@
+"","CellType","annotLevel","p","fold_change","sd_from_mean","Direction","p.adj"
+"Astrocytes","Astrocytes",1,0,1.93078336869001,13.6664606488991,"Up",0
+"Interneurons","Interneurons",1,1,0.297342280162407,-18.8128704711992,"Up",1
+"Microglia","Microglia",1,0,4.10500032109865,38.0070399890393,"Up",0
+"Oligodendrocyte Precursor","Oligodendrocyte Precursor",1,1,0.730494141055908,-5.00469590810329,"Up",1
+"Oligodendrocytes","Oligodendrocytes",1,1,0.566856506539366,-6.54769557663981,"Up",1
+"Pericytes","Pericytes",1,0.5308,0.993750327459216,-0.0968483895640907,"Up",1
+"Pyramidal Neurons","Pyramidal Neurons",1,1,0.316708212145139,-19.4208974158654,"Up",1
+"Vascular and Leptomeningeal Cells","Vascular and Leptomeningeal Cells",1,0,1.89252291874355,9.42726892926279,"Up",0
+"Vascular Endothelial","Vascular Endothelial",1,0,1.27298862294205,4.47666021070406,"Up",0
+"Vascular Smooth Muscle Cell","Vascular Smooth Muscle Cell",1,0,1.35627617815026,5.92516381441226,"Up",0
+"Astrocytes1","Astrocytes",1,0.9492,0.894948330733059,-1.55272247178647,"Down",1
+"Interneurons1","Interneurons",1,0,1.18756713066688,5.03644678249811,"Down",0
+"Microglia1","Microglia",1,1,0.653110277062093,-4.16903163936129,"Down",1
+"Oligodendrocyte Precursor1","Oligodendrocyte Precursor",1,0.9995,0.842869071076671,-2.89512444450761,"Down",1
+"Oligodendrocytes1","Oligodendrocytes",1,0.4839,1.00148044109993,0.022016782575664,"Down",1
+"Pericytes1","Pericytes",1,0.9982,0.822916452609596,-2.76563235633244,"Down",1
+"Pyramidal Neurons1","Pyramidal Neurons",1,0,1.19263190754621,5.52262675046273,"Down",0
+"Vascular and Leptomeningeal Cells1","Vascular and Leptomeningeal Cells",1,0.9986,0.764531628664568,-2.4580131961697,"Down",1
+"Vascular Endothelial1","Vascular Endothelial",1,0.9998,0.812991907834105,-3.0782288611964,"Down",1
+"Vascular Smooth Muscle Cell1","Vascular Smooth Muscle Cell",1,0.9924,0.868243981189493,-2.21103165367928,"Down",1
