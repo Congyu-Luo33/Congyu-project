@@ -1,7 +1,9 @@
 # Congyu Luo's 2021 degree project.
 Here recorded the code and files related to the 2021 master's thesis <Cellular deconvolution of spatial transcriptomics in ALS mice>.
 
+
 -Introduction
+
 
 Amyotrophic lateral sclerosis(ALS) is a progressive neurodegenerative disease that affects motor neurons causing loss of muscle control, eventually causes muscular atrophy, paralysis and death.
 
@@ -9,7 +11,9 @@ Currently, researches main focused on nerve cells, and more evidence has showed 
 
 The source spatial transcription data were from Maniatis's lab[1], which the data were derived from the spinal cords of two mouse models, and were classified according to 11 anatomical areas and 4 time points. This project mainly used EWCE package[2] and spatial transcriptomics methods.
 
+
 -Overview
+
 
 Input files folder: 
 - 'aav9776_data' folder: Included tables were separated by 4 time points from differential expression results between 2 mouse models (SOD1-WT and SOD1-G93A) of Maniatis's lab. Each table lists the Bayesian factor, posterior means and standard deviation of the β distribution for comparison.
@@ -30,6 +34,7 @@ R scripts folder:
 
 Shell files folder:
 - Contained the relevant shell files which used to get file names which names based on 11 anatomic areas and 4 time points, in order to let 'timeplot_11.R' and '250genes_bootstrap_plot.R' read file names automatically instead of manually modified the input file names.
+
 
 -Citation
 1. Maniatis, S. and Äijö, T.Spatiotemporal dynamics of molecular pathology in amyotrophic lateral sclerosis. Science (2019). doi: 10.1126/science.aav9776
